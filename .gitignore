@@ -1,0 +1,6 @@
+/node_modules
+.env
+package-lock.json
+giftola-4b95c-firebase-adminsdk-n936i-d73bc0a6b8.json
+giftola-dev-firebase-adminsdk-f1a32-b0b9d171a4.json
+/backup/
